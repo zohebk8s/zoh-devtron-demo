@@ -6,3 +6,5 @@ It will trigger a pipeline in Devtron and the Image will get deployed in develop
 Testing deployment in Azure AKS - Demo Type Deployment - Redeployment
 
 Added ACR secret - For Image Pull
+
+Added Policy Check before deployment
